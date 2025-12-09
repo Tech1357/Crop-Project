@@ -110,11 +110,12 @@ Rescoring → Top 3 Valid Crops → Gemini AI Agronomy Tips
 
 # 🖼️ **Screenshots**
 
-| 🌤️ Live Weather Screen                                          | 🌾 Crop Recommendation Screen                                     |
-| ---------------------------------------------------------------- | ----------------------------------------------------------------- |
-| ![Screen1](https://via.placeholder.com/400x200?text=Home+Screen) | ![Screen2](https://via.placeholder.com/400x200?text=Results+Page) |
+<img width="1880" height="957" alt="image" src="https://github.com/user-attachments/assets/f003f873-e380-4a4d-8fbe-611e5f341b5f" />
+<img width="1868" height="986" alt="image" src="https://github.com/user-attachments/assets/981f0140-a0c9-441f-a9e0-1feea3efaa07" />
+<img width="1871" height="848" alt="image" src="https://github.com/user-attachments/assets/70b0de49-bbe2-4972-babd-4efe1110b8ea" />
 
-*(Replace placeholder images with real screenshots)*
+
+
 
 ---
 
