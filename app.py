@@ -537,35 +537,35 @@ import os
 # --- CROP IMAGES DICTIONARY (Local File Paths) ---
 # Note: These paths assume your python file is next to the 'crop_images' folder.
 CROP_IMAGES = {
-    'bajra': "crop images/bajra.jpg",
-    'banana': "crop images/banana.jpg",
-    'bengal gram': "crop images/bengalgram.jpg", 
-    'chickpea': "crop images/bengalgram.jpg",    # Alias
-    'coconut': "crop images/coconut.jpg",
-    'cotton': "crop images/cotton.jpg",
-    'groundnut': "crop images/groundnut.jpg",
-    'maize': "crop images/maize.jpeg",           # Note: .jpeg extension
-    'mirchi': "crop images/mirchi.jpg",
-    'chilli': "crop images/mirchi.jpg",          # Alias
-    'moong': "crop images/moong.jpg",
-    'mungbean': "crop images/moong.jpg",         # Alias
-    'mustard': "crop images/mustard.jpg",
-    'onion': "crop images/onion.jpg",
-    'potato': "crop images/potato.jpg",
-    'ragi': "crop images/ragi.jpg",
-    'rice': "crop images/rice.jpg",
-    'sorghum': "crop images/sorghum.jpg",
-    'jowar': "crop images/sorghum.jpg",          # Alias
-    'soybean': "crop images/soybean.webp",       # Note: .webp extension
-    'sugarcane': "crop images/sugarcane.webp",   # Note: .webp extension
-    'sunflower': "crop images/sunflower.jpg",
-    'tobacco': "crop images/tobacco.jpg",
-    'tomato': "crop images/tomato.webp",         # Note: .webp extension
-    'toor': "crop images/toor.webp",             # Note: .webp extension
-    'pigeonpeas': "crop images/toor.webp",       # Alias
-    'urad': "crop images/urad.jpg",
-    'blackgram': "crop images/urad.jpg",         # Alias
-    'wheat': "crop images/wheat.jpg"
+    'bajra': "crop_images/bajra.jpg",
+    'banana': "crop_images/banana.jpg",
+    'bengal gram': "crop_images/bengalgram.jpg", 
+    'chickpea': "crop_images/bengalgram.jpg",    # Alias
+    'coconut': "crop_images/coconut.jpg",
+    'cotton': "crop_images/cotton.jpg",
+    'groundnut': "crop_images/groundnut.jpg",
+    'maize': "crop_images/maize.jpeg",           # Note: .jpeg extension
+    'mirchi': "crop_images/mirchi.jpg",
+    'chilli': "crop_images/mirchi.jpg",          # Alias
+    'moong': "crop_images/moong.jpg",
+    'mungbean': "crop_images/moong.jpg",         # Alias
+    'mustard': "crop_images/mustard.jpg",
+    'onion': "crop_images/onion.jpg",
+    'potato': "crop_images/potato.jpg",
+    'ragi': "crop_images/ragi.jpg",
+    'rice': "crop_images/rice.jpg",
+    'sorghum': "crop_images/sorghum.jpg",
+    'jowar': "crop_images/sorghum.jpg",          # Alias
+    'soybean': "crop_images/soybean.webp",       # Note: .webp extension
+    'sugarcane': "crop_images/sugarcane.webp",   # Note: .webp extension
+    'sunflower': "crop_images/sunflower.jpg",
+    'tobacco': "crop_images/tobacco.jpg",
+    'tomato': "crop_images/tomato.webp",         # Note: .webp extension
+    'toor': "crop_images/toor.webp",             # Note: .webp extension
+    'pigeonpeas': "crop_images/toor.webp",       # Alias
+    'urad': "crop_images/urad.jpg",
+    'blackgram': "crop_images/urad.jpg",         # Alias
+    'wheat': "crop_images/wheat.jpg"
 }
 
 def get_crop_image_url(crop_name):
